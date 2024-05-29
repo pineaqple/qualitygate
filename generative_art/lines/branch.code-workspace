@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../branch"
+		},
+		{
+			"path": "../../../Users/user/Downloads/p5-template-main/p5-template-main"
+		},
+		{
+			"path": "../brush"
+		},
+		{
+			"path": "../house"
+		},
+		{
+			"path": "../valentine"
+		},
+		{
+			"path": "../glimpse"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lines"
+	}
+}
